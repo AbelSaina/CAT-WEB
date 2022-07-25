@@ -1,16 +1,16 @@
-# GENERATE RANDOM CAT PICTURE
+## GENERATE RANDOM [CAT PICTURE](https://athrvvvv.github.io/random_cat_web/)<br>
 
-## [Random-Cat](https://athrvvvv.github.io/random_cat_web/) 
-
-> ### Screenshots
-
-[](./image1.png)
+### Screenshots
 
 <br>
 
-[](./image2.png)
+![Preview of Website](image1.png)
+
+<br>
+
+![Preview of Website](image2.png)
 
 ***
 
-### *Note: This project is the forked of CodePen's project.*
-### *All Credit goes to [AJAX](https://codepen.io/Chanadian/pen/jxRWvg)*
+### *Note: This project is the forked of CodePen's [project](https://codepen.io/Chanadian/pen/jxRWvg).*
+### *All Credit goes to [Adam Denoon](https://codepen.io/Chanadian)*
